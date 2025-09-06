@@ -1,6 +1,6 @@
 # Simple GenAI Chatbot with LangChain and Streamlit
 
-This project is a simple, web-based chatbot built using Python. It leverages the power of Google's Gemini Pro model through the LangChain framework and provides an interactive user interface with Streamlit.
+This project is a simple, web-based chatbot built using Python. It leverages the power of Google's Gemini model through the LangChain framework and provides an interactive user interface with Streamlit.
 
 ## Features
 
